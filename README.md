@@ -1,6 +1,3 @@
-![UPSA logo](assets/images/upsa.png "Logo Universidad Pontificia de Salamanca.")
-
-
 # Taller de Spark en la Universidad Pontificia de Salamanca.
 
 Este repositorio de GitHub servirá para dar difusión de los documentos y archivos utilizados en el taller de Spark de la Universidad Pontificia de Salamanca organizado para Mayo de 2021.
