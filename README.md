@@ -13,3 +13,4 @@ Este repositorio está estructurado de la siguiente manera:
 
 - ``datasets``: Esta carpeta contiene los ficheros fuente de datos para los ejemplos utilizados.
 - ``slides``: Contiene la presentación utilizada en las clases y material de apoyo.
+- ``code``: Contiene el código con el que se van a realizar las prácticas.
